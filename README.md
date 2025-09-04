@@ -14,9 +14,9 @@ HTML5 – Estrutura das páginas
 
 CSS3 – Estilização e responsividade
 
-JavaScript (ES6+) – Interatividade e dinamicidade
+JavaScript – Interatividade e dinamicidade
 
-Bootstrap/Tailwind (se aplicável) – Organização do layout e estilo
+Bootstrap/ – Organização do layout e estilo
 
 Back-End
 
